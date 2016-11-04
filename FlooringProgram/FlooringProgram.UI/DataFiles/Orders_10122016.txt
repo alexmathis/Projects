@@ -1,0 +1,2 @@
+CustomerName,State,ProductType,TaxRate,CostPerSQFoot,Area,LaborCostPerSQFoot,MaterialCost,LaborCost,TotalTax,Total,OrderDate
+Alex,OHIO,CARPET,6.25,20.00,100.00,40.00,20.00,30.00,15.00,25.00,1,10-12-2016
